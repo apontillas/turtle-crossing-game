@@ -7,10 +7,7 @@ from scoreboard import Scoreboard
 
 screen = Screen()
 screen.setup(width=600, height=600)
-<<<<<<< HEAD
-=======
 screen.title('Turtle Crossing Game')
->>>>>>> 744bab9 (Initial commit)
 screen.tracer(0)
 
 player = Player()
