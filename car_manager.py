@@ -6,7 +6,7 @@ MOVE_INCREMENT = 10
 STARTING_POS = 310
 
 
-class CarManager():
+class CarManager:
     def __init__(self):
         self.cars = []
         self.car_speed = MOVE_INCREMENT
